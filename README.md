@@ -1,4 +1,4 @@
 K11 - Door
 =======
 
-**this is code of door bell to mqtt gateway for esp8266**
+**esp8266 based mqtt gatway for doorbells**
